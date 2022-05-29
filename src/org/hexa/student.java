@@ -8,7 +8,7 @@ public class student {
     public void sslc() {
 		System.out.println("Dalmia");
 	}
-    public void Hss() {
-		System.out.println("Dalmiapuram");
+    public void clg() {
+		System.out.println("Thuraiyur");
 	}
 }
